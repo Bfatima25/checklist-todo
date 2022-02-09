@@ -1,7 +1,7 @@
 {
-  "name": "checklist-todo",
+  "name": "checklisttodo",
   "version": "0.1.0",
-  "homepage": "http://Bfatima25.github.io/checklist-todo",
+  "homepage": "http://Bfatima25.github.io/checklisttodo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
